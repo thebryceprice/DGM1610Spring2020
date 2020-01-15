@@ -14,3 +14,4 @@ January 9, 2020: 35 Degrees, Partly Cloudy
 January 10, 2020:  23 Degrees, Partly Cloudy
 January 12, 2020: 27 Degrees, Mostly Cloudy
 January 13, 2020: 30 Degrees, Cloudy
+January 14, 2020: 30 Degrees, Mostly Cloudy
