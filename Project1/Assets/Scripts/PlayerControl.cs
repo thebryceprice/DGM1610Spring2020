@@ -26,10 +26,11 @@ public class PlayerControl : MonoBehaviour
         moveHorizontal = Input.GetAxis("Horizontal");
         //moveVertical = Input.GetAxis("Vertical");
         rb.velocity = new Vector3(moveHorizontal, 0);
-        // move up    moveVertical * 10);
+        // move into previous line to create top-down game ^ moveVertical * 10);
+        
         if (Input.GetKeyDown(KeyCode.Space))
         {
-            rb.AddForce(Vector3.up*jumpStrength, ForceMode.Impulse);
+            rb.AddForce(Vector3.up*jumpStrength, ForceMode.Acceleration);
         }
     }
 }
