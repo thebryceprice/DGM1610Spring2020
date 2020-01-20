@@ -6,11 +6,18 @@ using UnityEngine;
 public class PowerUps : MonoBehaviour
 {
     public float ammo;
-    public float healing;
     public float money;
-    
-    void OnTriggerEnter(Collider other)
+    //public float healing;
+
+    public void Start()
     {
-        gameObject.SetActive(false);
+        ammo = 0;
+        money = 0;
+    }
+
+    private void Update()
+    {
+        print(ammo);
+        print(money);
     }
 }
