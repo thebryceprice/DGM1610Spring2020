@@ -8,9 +8,11 @@
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
           <e p="Ammo.cs" t="Include" />
-          <e p="Jan15Lesson.cs" t="Include" />
+          <e p="HealthPack.cs" t="Include" />
+          <e p="HelloWorld.cs" t="Include" />
+          <e p="JanFifteen.cs" t="Include" />
+          <e p="JanTwentyTwo.cs" t="Include" />
           <e p="Money.cs" t="Include" />
-          <e p="NewClass.cs" t="Include" />
           <e p="PlayerControl.cs" t="Include" />
           <e p="PowerUps.cs" t="Include" />
         </e>

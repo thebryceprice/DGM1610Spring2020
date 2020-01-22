@@ -6,13 +6,10 @@ using UnityEngine.Events;
 
 public class PowerUps : MonoBehaviour
 {
-    public static UnityEvent moneyEvent;
-    public static UnityEvent ammoEvent;
-    public static UnityEvent healingEvent;
-    
-    public static int ammo;
-    public static int money;
-    //public float healing;
+    //Master Script for all PickUps - Scripts like Money/Ammo/HealthPacks values are updated and stored here
+    public int ammo;
+    public int money;
+    //public int healing;
 
     public void Start()
     {
@@ -23,8 +20,8 @@ public class PowerUps : MonoBehaviour
 
     private void Update()
     {
-        print(ammo);
-        print(money);
+        //print(ammo);
+        //print(money);
         //print(healing);
     }
 }
