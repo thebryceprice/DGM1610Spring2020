@@ -3,21 +3,15 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Money : MonoBehaviour
+public class Ammo : MonoBehaviour
 {
-    public void ChangeMoneyAmount(int moneyAmount)
-    {
-        PowerUps.money += moneyAmount;
-    }
-    
-    
-    
+    public int money;
+    //Intent: If Player collides with a Sprite with the Ammo script, then Disable the sprite and Update Ammo amount
     private void OnTriggerEnter(Collider other)
     {
         if (other.gameObject.tag == "Player")
         {
             gameObject.SetActive(false);
-            PowerUps.moneyEvent.Invoke();
         }
     }
 }

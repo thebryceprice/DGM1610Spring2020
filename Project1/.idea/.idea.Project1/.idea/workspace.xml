@@ -15,6 +15,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/NewClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerControl.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Money.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Ammo.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -22,6 +23,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/NewClass.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Jan15Lesson.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Ammo.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PowerUps.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Money.cs" />
       </list>
@@ -90,6 +92,7 @@
       <workItem from="1579107810705" duration="4198000" />
       <workItem from="1579230127385" duration="4187000" />
       <workItem from="1579560549007" duration="2877000" />
+      <workItem from="1579662744593" duration="1470000" />
     </task>
     <servers />
   </component>
