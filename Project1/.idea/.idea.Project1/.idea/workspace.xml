@@ -7,14 +7,10 @@
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Project1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Project1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/PracticeScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PracticeScene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Ammo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Ammo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Jan15Lesson.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Jan15Lesson.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/HealthPack.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/HealthPack.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Money.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Money.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/NewClass.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/NewClass.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PowerUps.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PowerUps.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +24,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Ammo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerControl.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/JanTwentyTwo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Money.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PowerUps.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/HealthPack.cs" root0="FORCE_HIGHLIGHTING" />
@@ -38,13 +35,15 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/NewClass.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Jan15Lesson.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerControl.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/HealthPack.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Practice Scripts/Jan22.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Ammo.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Money.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Practice Scripts/JanTwentyTwo.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/JanTwentyTwo.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PowerUps.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Money.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Ammo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HealthPack.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
       </list>
     </option>
   </component>
@@ -113,6 +112,7 @@
       <workItem from="1579560549007" duration="2877000" />
       <workItem from="1579662744593" duration="1470000" />
       <workItem from="1579712955366" duration="4144000" />
+      <workItem from="1579717799749" duration="7140000" />
     </task>
     <servers />
   </component>

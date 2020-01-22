@@ -14,6 +14,7 @@
           <e p="JanTwentyTwo.cs" t="Include" />
           <e p="Money.cs" t="Include" />
           <e p="PlayerControl.cs" t="Include" />
+          <e p="PlayerController.cs" t="Include" />
           <e p="PowerUps.cs" t="Include" />
         </e>
       </e>
