@@ -8,6 +8,7 @@
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
           <e p="Ammo.cs" t="Include" />
+          <e p="Bullets.cs" t="Include" />
           <e p="HealthPack.cs" t="Include" />
           <e p="HelloWorld.cs" t="Include" />
           <e p="JanFifteen.cs" t="Include" />
