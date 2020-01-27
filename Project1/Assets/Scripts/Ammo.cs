@@ -21,6 +21,7 @@ public class Ammo : MonoBehaviour
         {
             gameObject.SetActive(false);
             ammo = ammo + 5;
+            print("Ammo Collected");
         }
     }
 }

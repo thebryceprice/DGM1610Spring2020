@@ -21,6 +21,7 @@ public class HealthPack : MonoBehaviour
         {
             gameObject.SetActive(false);
             healthPack = healthPack + 5;
+            print("HealthPack Collected");
         }
     }
 }

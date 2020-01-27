@@ -21,6 +21,7 @@ public class Money : MonoBehaviour
         {
             gameObject.SetActive(false);
             money = money + 5;
+            print("Money Collected");
         }
     }
 }
