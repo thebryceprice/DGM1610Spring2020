@@ -9,7 +9,8 @@
         <e p="Scripts" t="Include">
           <e p="Ammo.cs" t="Include" />
           <e p="Bullets.cs" t="Include" />
-          <e p="Health.cs" t="Include" />
+          <e p="DamageController.cs" t="Include" />
+          <e p="HealthController.cs" t="Include" />
           <e p="HealthPack.cs" t="Include" />
           <e p="HelloWorld.cs" t="Include" />
           <e p="JanFifteen.cs" t="Include" />
