@@ -17,6 +17,7 @@
           <e p="PlayerController.cs" t="Include" />
           <e p="PowerUps.cs" t="Include" />
           <e p="PracticeScripts" t="Include">
+            <e p="CharacterMover.cs" t="Include" />
             <e p="HelloWorld.cs" t="Include" />
             <e p="JanFifteen.cs" t="Include" />
             <e p="JanTwentyTwo.cs" t="Include" />
