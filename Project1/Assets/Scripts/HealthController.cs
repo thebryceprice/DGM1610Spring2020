@@ -8,13 +8,13 @@ using UnityEngine.UI;
 
 public class HealthController : MonoBehaviour
 {
-    public float playerHealth;
+    [Range(0, 100)] public float playerHealth;
     [SerializeField] private Text currentHealthText;
 
 
     private void Start()
     {
-        UpdateHealth();;
+        UpdateHealth();
     }
 
     public void UpdateHealth()
