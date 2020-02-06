@@ -10,9 +10,9 @@ public class CharacterMover : MonoBehaviour
 
     public bool isGrounded;
     
-    void Start()
+    void Awake()
     {
-
+        
     }
     
     void Update()

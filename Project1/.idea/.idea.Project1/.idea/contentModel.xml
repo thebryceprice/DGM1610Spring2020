@@ -9,7 +9,10 @@
         <e p="Scripts" t="Include">
           <e p="AmmoController.cs" t="Include" />
           <e p="Bullets.cs" t="Include" />
+          <e p="CharacterMover.cs" t="Include" />
           <e p="DamageController.cs" t="Include" />
+          <e p="DamagePlatformController.cs" t="Include" />
+          <e p="DontDestory.cs" t="Include" />
           <e p="HealingController.cs" t="Include" />
           <e p="HealthController.cs" t="Include" />
           <e p="MoneyController.cs" t="Include" />
@@ -17,7 +20,6 @@
           <e p="PlayerController.cs" t="Include" />
           <e p="PowerUps.cs" t="Include" />
           <e p="PracticeScripts" t="Include">
-            <e p="CharacterMover.cs" t="Include" />
             <e p="HelloWorld.cs" t="Include" />
             <e p="JanFifteen.cs" t="Include" />
             <e p="JanTwentyTwo.cs" t="Include" />
