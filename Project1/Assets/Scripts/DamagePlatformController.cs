@@ -13,12 +13,12 @@ public class DamagePlatformController : MonoBehaviour
     {
         if (collision.CompareTag("Player"))
         {
-            ConstantDamage();
+            WallDamage();
             print("ow");
         }
     }
     
-    void ConstantDamage()
+    void WallDamage()
     {
         healthController.playerHealth = healthController.playerHealth - platformDamage;
         healthController.UpdateHealth();

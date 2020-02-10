@@ -10,6 +10,7 @@
           <e p="AmmoController.cs" t="Include" />
           <e p="Bullets.cs" t="Include" />
           <e p="CharacterMover.cs" t="Include" />
+          <e p="Checkpoint.cs" t="Include" />
           <e p="DamageController.cs" t="Include" />
           <e p="DamagePlatformController.cs" t="Include" />
           <e p="DontDestory.cs" t="Include" />

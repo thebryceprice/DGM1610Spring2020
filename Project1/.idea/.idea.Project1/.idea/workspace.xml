@@ -3,11 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="f737b365-8bc7-4c7b-98d0-954413e4b704" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Project1/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Project1/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Project1/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Project1/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Project1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Project1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/PracticeScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PracticeScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PracticeScripts/CharacterMover.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PracticeScripts/CharacterMover.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/DamagePlatformController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/DamagePlatformController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,6 +30,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DontDestory.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AmmoController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/HealthController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Checkpoint.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PowerUps.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -62,10 +62,11 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/AmmoController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MoneyController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PracticeScripts/CharacterMover.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/DamagePlatformController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DontDestory.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/HealthController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Checkpoint.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DamagePlatformController.cs" />
       </list>
     </option>
   </component>
@@ -146,6 +147,7 @@
       <workItem from="1580920199885" duration="440000" />
       <workItem from="1580923488258" duration="3107000" />
       <workItem from="1581007732595" duration="1428000" />
+      <workItem from="1581349433512" duration="1030000" />
     </task>
     <servers />
   </component>

@@ -7,6 +7,7 @@ TagManager:
   - Ground
   - Bullet
   - Boundary
+  - Checkpoint
   layers:
   - Default
   - TransparentFX
