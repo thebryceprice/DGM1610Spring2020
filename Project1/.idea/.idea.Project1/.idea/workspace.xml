@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f737b365-8bc7-4c7b-98d0-954413e4b704" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Project1/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Project1/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Project1/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Project1/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Project1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Project1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PracticeScene.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PracticeScene.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Health Pack.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Health Pack.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/DamagePlatformController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/DamagePlatformController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamagePlatformMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DamagePlatformMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Level1.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Level1.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +27,9 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MoneyController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/HealingController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Bullets.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PracticeScripts/Lights.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PracticeScripts/SpriteController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PracticeScripts/CameraController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/WorldBoundary.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DamageController.cs" root0="FORCE_HIGHLIGHTING" />
@@ -71,6 +76,9 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/PracticeScripts/RigidBodyForces.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DamagePlatformController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PracticeScripts/Lights.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PracticeScripts/CameraController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PracticeScripts/SpriteController.cs" />
       </list>
     </option>
   </component>
@@ -93,7 +101,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.smartKeys_rider" />
+    <property name="settings.editor.selected.configurable" value="Console" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
@@ -154,6 +162,7 @@
       <workItem from="1581349433512" duration="1030000" />
       <workItem from="1581354953835" duration="4037000" />
       <workItem from="1581525096999" duration="1068000" />
+      <workItem from="1581527081848" duration="4201000" />
     </task>
     <servers />
   </component>
@@ -176,10 +185,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="620" y="125" key="SettingsEditor" timestamp="1579043773859">
-      <screen x="0" y="0" width="3440" height="1440" />
+    <state x="277" y="75" key="SettingsEditor" timestamp="1581529727784">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="277" y="75" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1578937241047" />
+    <state x="277" y="75" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1581529727784" />
     <state x="620" y="125" key="SettingsEditor/0.0.3440.1440@0.0.3440.1440" timestamp="1579043773859" />
     <state x="431" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1578937455293">
       <screen x="0" y="0" width="1536" height="864" />
