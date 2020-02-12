@@ -1,5 +1,6 @@
 ﻿using System;
 using UnityEngine;
+using UnityEngine.UI;
 
 [RequireComponent(typeof(CharacterController))]
 
@@ -12,6 +13,8 @@ public class CharacterMover : MonoBehaviour
     public float jumpForce = 10f;
     private int jumpCount = 0;
     public int jumpCountMax = 5;
+    
+    [SerializeField] private Text currentJumpText;
 
     private void Start()
     {
@@ -37,5 +40,10 @@ public class CharacterMover : MonoBehaviour
         
         positionDirection.y -= gravity;
         controller.Move(positionDirection*Time.deltaTime);
+    }
+
+    public void FixedUpdate()
+    {
+        currentJumpText.text = jumpCount.ToString("0");
     }
 }

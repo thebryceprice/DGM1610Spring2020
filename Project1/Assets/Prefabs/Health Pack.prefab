@@ -125,5 +125,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f5651821840aebe4cb66a002fbe1ee22, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  healthpackHealing: 10
+  healthpackHealing: 1
   healthController: {fileID: 0}

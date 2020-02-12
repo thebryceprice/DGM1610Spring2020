@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f737b365-8bc7-4c7b-98d0-954413e4b704" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Project1/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Project1/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Project1/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Project1/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Project1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Project1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PracticeScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PracticeScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PracticeScene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PracticeScene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Health Pack.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Health Pack.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/DamagePlatformController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/DamagePlatformController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,8 +68,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/HealthController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Checkpoint.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PracticeScripts/IfStatements.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/DamagePlatformController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PracticeScripts/RigidBodyForces.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DamagePlatformController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" />
       </list>
     </option>
@@ -154,6 +153,7 @@
       <workItem from="1581007732595" duration="1428000" />
       <workItem from="1581349433512" duration="1030000" />
       <workItem from="1581354953835" duration="4037000" />
+      <workItem from="1581525096999" duration="1068000" />
     </task>
     <servers />
   </component>

@@ -23,7 +23,7 @@ public class DamagePlatformController : MonoBehaviour
     {
         healthController.playerHealth = healthController.playerHealth - platformDamage;
         healthController.UpdateHealth();
-        SceneManager.LoadScene("PracticeScene");
+        SceneManager.LoadScene("Level1");
         //GameObject.Find("TESTPLAYER").transform.position
     }
 }
