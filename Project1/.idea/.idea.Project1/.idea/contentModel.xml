@@ -33,6 +33,7 @@
             <e p="TriggerEvents.cs" t="Include" />
             <e p="TriggeringEvents.cs" t="Include" />
           </e>
+          <e p="ProjectileSpawner.cs" t="Include" />
           <e p="WorldBoundary.cs" t="Include" />
         </e>
       </e>

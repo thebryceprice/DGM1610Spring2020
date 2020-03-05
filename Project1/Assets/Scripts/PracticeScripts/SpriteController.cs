@@ -18,7 +18,6 @@ public class SpriteController : MonoBehaviour
     private void OnEnable()
     {
         spriteObj.color = spriteColor;
-
     }
 
 
