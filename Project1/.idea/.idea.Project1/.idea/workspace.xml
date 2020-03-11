@@ -5,8 +5,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Project1/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Project1/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Project1/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Project1/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Project1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Project1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PracticeScripts/Lights.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PracticeScripts/Lights.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PracticeScripts/SpriteController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PracticeScripts/SpriteController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,6 +28,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PracticeScripts/SpriteController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PracticeScripts/CameraController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LeftRightButtons.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/WorldBoundary.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DamageController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DontDestory.cs" root0="FORCE_HIGHLIGHTING" />
@@ -79,6 +78,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/PracticeScripts/Lights.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ProjectileSpawner.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PracticeScripts/SpriteController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LeftRightButtons.cs" />
       </list>
     </option>
   </component>
@@ -164,6 +164,7 @@
       <workItem from="1581525096999" duration="1068000" />
       <workItem from="1581527081848" duration="4201000" />
       <workItem from="1583368965068" duration="1451000" />
+      <workItem from="1583902193435" duration="978000" />
     </task>
     <servers />
   </component>

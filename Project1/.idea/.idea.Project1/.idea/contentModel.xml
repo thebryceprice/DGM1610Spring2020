@@ -16,6 +16,7 @@
           <e p="DontDestory.cs" t="Include" />
           <e p="HealingController.cs" t="Include" />
           <e p="HealthController.cs" t="Include" />
+          <e p="LeftRightButtons.cs" t="Include" />
           <e p="MoneyController.cs" t="Include" />
           <e p="PlayerControl.cs" t="Include" />
           <e p="PlayerController.cs" t="Include" />
