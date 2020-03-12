@@ -23,6 +23,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MoneyController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/HealingController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/WheelController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Bullets.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PracticeScripts/Lights.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PracticeScripts/SpriteController.cs" root0="FORCE_HIGHLIGHTING" />
@@ -79,6 +80,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/ProjectileSpawner.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PracticeScripts/SpriteController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/LeftRightButtons.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/WheelController.cs" />
       </list>
     </option>
   </component>
@@ -165,6 +167,7 @@
       <workItem from="1581527081848" duration="4201000" />
       <workItem from="1583368965068" duration="1451000" />
       <workItem from="1583902193435" duration="978000" />
+      <workItem from="1583983668812" duration="1186000" />
     </task>
     <servers />
   </component>
