@@ -13,6 +13,7 @@
           <e p="Checkpoint.cs" t="Include" />
           <e p="DamageController.cs" t="Include" />
           <e p="DamagePlatformController.cs" t="Include" />
+          <e p="Debugger.cs" t="Include" />
           <e p="DontDestory.cs" t="Include" />
           <e p="HealingController.cs" t="Include" />
           <e p="HealthController.cs" t="Include" />
