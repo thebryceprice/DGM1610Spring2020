@@ -61,7 +61,6 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/MoneyController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PracticeScripts/CharacterMover.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DontDestory.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/HealthController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Checkpoint.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PracticeScripts/IfStatements.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PracticeScripts/RigidBodyForces.cs" />
@@ -72,9 +71,11 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/PracticeScripts/SpriteController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/LeftRightButtons.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/WheelController.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/PauseMenu.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ProjectileSpawner.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MainMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Debugger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PauseMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HealthController.cs" />
       </list>
     </option>
   </component>
@@ -169,6 +170,7 @@
       <workItem from="1585187414998" duration="2401000" />
       <workItem from="1585189907291" duration="116000" />
       <workItem from="1585260514283" duration="466000" />
+      <workItem from="1585459664715" duration="76000" />
     </task>
     <servers />
   </component>
