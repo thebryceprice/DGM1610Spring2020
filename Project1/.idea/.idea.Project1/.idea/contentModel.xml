@@ -17,6 +17,7 @@
           <e p="DontDestory.cs" t="Include" />
           <e p="HealingController.cs" t="Include" />
           <e p="HealthController.cs" t="Include" />
+          <e p="IntData.cs" t="Include" />
           <e p="LeftRightButtons.cs" t="Include" />
           <e p="MainMenu.cs" t="Include" />
           <e p="MoneyController.cs" t="Include" />
@@ -26,6 +27,7 @@
           <e p="PowerUps.cs" t="Include" />
           <e p="PracticeScripts" t="Include">
             <e p="CameraController.cs" t="Include" />
+            <e p="Coroutines.cs" t="Include" />
             <e p="HelloWorld.cs" t="Include" />
             <e p="IfStatements.cs" t="Include" />
             <e p="JanFifteen.cs" t="Include" />
@@ -34,6 +36,7 @@
             <e p="MouseEvents.cs" t="Include" />
             <e p="RigidBodyForces.cs" t="Include" />
             <e p="SpriteController.cs" t="Include" />
+            <e p="TextBehaviour.cs" t="Include" />
             <e p="TriggerEvents.cs" t="Include" />
             <e p="TriggeringEvents.cs" t="Include" />
           </e>
