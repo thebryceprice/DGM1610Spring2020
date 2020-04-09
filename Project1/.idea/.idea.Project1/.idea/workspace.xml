@@ -18,12 +18,14 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PowerUps.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ProjectileSpawner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LevelCompletion.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PracticeScripts/SpriteController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Bullets.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/WorldBoundary.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMP_Text.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Debugger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MoneyController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MainMenu.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerControl.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/IntData.cs" root0="FORCE_HIGHLIGHTING" />
@@ -82,6 +84,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/IntData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PracticeScripts/TextBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PracticeScripts/Coroutines.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LevelCompletion.cs" />
       </list>
     </option>
   </component>
@@ -179,6 +182,7 @@
       <workItem from="1585459664715" duration="76000" />
       <workItem from="1585584292256" duration="1551000" />
       <workItem from="1585585846104" duration="2675000" />
+      <workItem from="1586400975412" duration="378000" />
     </task>
     <servers />
   </component>
@@ -207,6 +211,10 @@
     <state x="277" y="75" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1581529727784" />
     <state x="620" y="125" key="SettingsEditor/0.0.3440.1440/3440.348.1920.1080@0.0.3440.1440" timestamp="1584984672903" />
     <state x="620" y="125" key="SettingsEditor/0.0.3440.1440@0.0.3440.1440" timestamp="1579043773859" />
+    <state x="882" y="311" width="1122" height="977" key="dock-window-1" timestamp="1586401248725">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state x="882" y="311" width="1122" height="977" key="dock-window-1/0.0.3440.1440@0.0.3440.1440" timestamp="1586401248725" />
     <state x="431" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1578937455293">
       <screen x="0" y="0" width="1536" height="864" />
     </state>

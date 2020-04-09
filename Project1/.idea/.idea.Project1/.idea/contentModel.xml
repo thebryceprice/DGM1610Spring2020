@@ -19,6 +19,7 @@
           <e p="HealthController.cs" t="Include" />
           <e p="IntData.cs" t="Include" />
           <e p="LeftRightButtons.cs" t="Include" />
+          <e p="LevelCompletion.cs" t="Include" />
           <e p="MainMenu.cs" t="Include" />
           <e p="MoneyController.cs" t="Include" />
           <e p="PauseMenu.cs" t="Include" />
