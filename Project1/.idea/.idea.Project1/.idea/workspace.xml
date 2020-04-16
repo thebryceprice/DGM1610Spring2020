@@ -21,6 +21,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/LevelCompletion.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PracticeScripts/SpriteController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Bullets.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DamagePlatformController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/WorldBoundary.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMP_Text.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Debugger.cs" root0="FORCE_HIGHLIGHTING" />
@@ -69,7 +70,6 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Checkpoint.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PracticeScripts/IfStatements.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PracticeScripts/RigidBodyForces.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/DamagePlatformController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PracticeScripts/CameraController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PracticeScripts/Lights.cs" />
@@ -85,6 +85,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/PracticeScripts/TextBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PracticeScripts/Coroutines.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/LevelCompletion.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DamagePlatformController.cs" />
       </list>
     </option>
   </component>
@@ -183,6 +184,8 @@
       <workItem from="1585584292256" duration="1551000" />
       <workItem from="1585585846104" duration="2675000" />
       <workItem from="1586400975412" duration="378000" />
+      <workItem from="1587013681398" duration="56000" />
+      <workItem from="1587013756022" duration="116000" />
     </task>
     <servers />
   </component>
