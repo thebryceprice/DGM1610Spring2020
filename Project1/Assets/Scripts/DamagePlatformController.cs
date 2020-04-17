@@ -25,6 +25,6 @@ public class DamagePlatformController : MonoBehaviour
         healthController.UpdateHealth();
         SceneManager.LoadScene("Level1");
         //GameObject.Find("TESTPLAYER").transform.position
-        //SceneManager.SetActiveScene()
+        //SceneManager.SetActive
     }
 }
