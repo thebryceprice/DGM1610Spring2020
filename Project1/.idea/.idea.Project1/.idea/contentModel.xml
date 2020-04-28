@@ -6,6 +6,24 @@
     <e p="D:\GitRepos\DGM1610Spring2020\Project1" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="NavMeshComponents" t="Include">
+          <e p="Editor" t="Include">
+            <e p="NavMeshAssetManager.cs" t="Include" />
+            <e p="NavMeshComponentsEditor.asmdef" t="Include" />
+            <e p="NavMeshComponentsGUIUtility.cs" t="Include" />
+            <e p="NavMeshLinkEditor.cs" t="Include" />
+            <e p="NavMeshModifierEditor.cs" t="Include" />
+            <e p="NavMeshModifierVolumeEditor.cs" t="Include" />
+            <e p="NavMeshSurfaceEditor.cs" t="Include" />
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="NavMeshComponents.asmdef" t="Include" />
+            <e p="NavMeshLink.cs" t="Include" />
+            <e p="NavMeshModifier.cs" t="Include" />
+            <e p="NavMeshModifierVolume.cs" t="Include" />
+            <e p="NavMeshSurface.cs" t="Include" />
+          </e>
+        </e>
         <e p="Scripts" t="Include">
           <e p="AmmoController.cs" t="Include" />
           <e p="Bullets.cs" t="Include" />
@@ -22,6 +40,7 @@
           <e p="LevelCompletion.cs" t="Include" />
           <e p="MainMenu.cs" t="Include" />
           <e p="MoneyController.cs" t="Include" />
+          <e p="NewBehaviourScript.cs" t="Include" />
           <e p="PauseMenu.cs" t="Include" />
           <e p="PlayerControl.cs" t="Include" />
           <e p="PlayerController.cs" t="Include" />
@@ -117,6 +136,8 @@
           </e>
         </e>
       </e>
+      <e p="NavMeshComponents.csproj" t="IncludeRecursive" />
+      <e p="NavMeshComponentsEditor.csproj" t="IncludeRecursive" />
       <e p="obj" t="ExcludeRecursive" />
       <e p="Packages" t="ExcludeRecursive" />
       <e p="Project1.sln" t="IncludeFlat" />

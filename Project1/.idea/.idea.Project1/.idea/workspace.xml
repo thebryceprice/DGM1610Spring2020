@@ -21,6 +21,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/LevelCompletion.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PracticeScripts/SpriteController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Bullets.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DamagePlatformController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/WorldBoundary.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMP_Text.cs" root0="SKIP_HIGHLIGHTING" />
@@ -88,8 +89,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/PracticeScripts/TextBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PracticeScripts/Coroutines.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/LevelCompletion.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/DamagePlatformController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/VanishingPlatform.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DamagePlatformController.cs" />
       </list>
     </option>
   </component>
@@ -193,6 +194,8 @@
       <workItem from="1587101110298" duration="1133000" />
       <workItem from="1587617756063" duration="1330000" />
       <workItem from="1587621080043" duration="23000" />
+      <workItem from="1588037193161" duration="1132000" />
+      <workItem from="1588038339361" duration="6000" />
     </task>
     <servers />
   </component>

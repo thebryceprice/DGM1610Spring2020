@@ -24,6 +24,7 @@ public class DamagePlatformController : MonoBehaviour
         healthController.playerHealth = healthController.playerHealth - platformDamage;
         healthController.UpdateHealth();
         SceneManager.LoadScene("Level1");
+        //SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
         //GameObject.Find("TESTPLAYER").transform.position
         //SceneManager.SetActive
     }
